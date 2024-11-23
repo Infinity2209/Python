@@ -1,1 +1,1 @@
-'E.Economics','D.Math']
+    print(y)
